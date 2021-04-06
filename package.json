@@ -1,7 +1,6 @@
 {
   "name": "sum-array",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,7 +9,17 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^4.0.1"
-  }
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donnyli95/sum-all-number-in-array-test-js.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/donnyli95/sum-all-number-in-array-test-js/issues"
+  },
+  "homepage": "https://github.com/donnyli95/sum-all-number-in-array-test-js#readme",
+  "description": ""
 }
